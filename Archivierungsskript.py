@@ -16,3 +16,6 @@ directory_to_zip = '/pfad/zum/verzeichnis'
 zip_output_name = '/pfad/zum/zip_output.zip'
 
 zip_files(directory_to_zip, zip_output_name)
+
+
+Kevin Böhning
